@@ -1,0 +1,29 @@
+body{
+   background-color: black;
+}
+ .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ .box {
+    width: 100%;
+    max-width: 100%;
+    max-height: 700px;
+    margin: 0 auto;
+    background-color:rgb(225, 210, 192);
+}
+.bg-body-tertiary {
+   --bs-bg-opacity: 1;
+   background-color:rgb(225, 210, 192) !important;
+}
+.box-2{
+   max-width: 250px;
+   max-height: 250px;
+   margin: 0 auto;
+}
+ul{
+   list-style: none;
+}
+
